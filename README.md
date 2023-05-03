@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiNa5113
+- 👋 Hi, I’m Natty
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on coding
