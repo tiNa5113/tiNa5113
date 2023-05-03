@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiNa5113
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
 
