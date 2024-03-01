@@ -1,4 +1,4 @@
-#                           👋 Holla, I'm Natty        
+#                           👋 Holla, I'm Natty         
   
    
 ## 🌐 Socials:
